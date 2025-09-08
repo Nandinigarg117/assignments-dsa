@@ -12,7 +12,7 @@ int main(){
     string s;
     cout<<"enter the expression";
     getline(cin,s);
-int it=0;
+// int it=0;
 stack<char> st;
 string ans="";
 //in this type of questions,we have 3 parts -operands,operators and brackets
